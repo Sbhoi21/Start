@@ -1,0 +1,23 @@
+# following folders files will be ignored when committing 
+
+# ignore all class files 
+**/*.class
+
+# ignore settings folder 
+**/.settings/*
+
+#ignore .classpath file
+**/.classpath
+
+#ignore local gradle files
+**/.gradle/*
+
+.metadata
+.recommenders
+
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
