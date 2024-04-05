@@ -20,6 +20,9 @@ public class DFS {
 
 		System.out.print("\nPostorder Traversal: ");
 		tree.postOrderTraversal(tree.root);
+		
+		
+		
 	}
 	
 }
