@@ -14,6 +14,7 @@ public class ThreeSum {
 
 		int[] nums = {-1, 0, 1, 2, -1, -4};
 		System.out.println(threeSum(nums));
+
 		
 	}
 	

@@ -94,7 +94,7 @@ public class Q140_WordBreak2 {
 				System.out.println("i -->" + i + "\t res -->" + res);
 				dfs(s, i, set, res, sb);
 				sb.setLength(len);
-				System.out.println("sb after ==== " + sb);
+				System.out.println("sb === " + sb);
 			}
 		}
 	}
